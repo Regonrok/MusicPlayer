@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+       android:id="@+id/music_player_dashboard"
+       android:icon="@mipmap/ic_launcher"
+       android:title="@string/player_dashboard" />
+  <item
+       android:id="@+id/local_files_dashboard"
+       android:icon="@mipmap/ic_launcher"
+       android:title="@string/local_dashboard" />
+</menu>

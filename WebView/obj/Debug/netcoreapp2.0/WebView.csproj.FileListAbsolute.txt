@@ -1,0 +1,11 @@
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\bin\Debug\netcoreapp2.0\WebView.deps.json
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\bin\Debug\netcoreapp2.0\WebView.runtimeconfig.json
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\bin\Debug\netcoreapp2.0\WebView.runtimeconfig.dev.json
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\bin\Debug\netcoreapp2.0\WebView.dll
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\obj\Debug\netcoreapp2.0\WebView.csproj.CoreCompileInputs.cache
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\obj\Debug\netcoreapp2.0\WebView.AssemblyInfoInputs.cache
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\obj\Debug\netcoreapp2.0\WebView.AssemblyInfo.cs
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\bin\Debug\netcoreapp2.0\WebView.pdb
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\obj\Debug\netcoreapp2.0\WebView.dll
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\obj\Debug\netcoreapp2.0\WebView.pdb
+C:\Users\Misha\YandexDisk\Programming_VS\MusicPlayer\WebView\obj\Debug\netcoreapp2.0\WebView.csprojAssemblyReference.cache
